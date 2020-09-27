@@ -1,5 +1,5 @@
 # Pytorch-challenge-notebooks
-My python notebooks for the pytorch challenge and explanations. An easy way to view the notebooks is with google's colaboratory(Merci Google).
+My python notebooks for the pytorch challenge and explanations.
 
 - Download the colaboratory extension on google chrome
 - select a .ipynb file or .py file
